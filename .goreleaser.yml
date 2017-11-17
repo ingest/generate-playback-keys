@@ -1,0 +1,14 @@
+builds:
+  -
+    main: ./cmd/generate-playback-key
+    binary: generate-playback-key
+    goos:
+      - windows
+      - linux
+      - darwin
+    goarch:
+      - amd64
+archive:
+  replacements:
+    amd64: 64-bit
+    darwin: macOS
