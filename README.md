@@ -4,7 +4,7 @@ This is a simple utility that helps users on multiple platforms generate the pla
 
 ## Download
 
-Fetch the approriate binary from the GitHub Release or build it using Go.
+Fetch the approriate binary from the [GitHub Release](https://github.com/ingest/generate-playback-keys/releases) or build it using Go.
 
 ## Usage
 
